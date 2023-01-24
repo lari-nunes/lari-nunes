@@ -1,4 +1,4 @@
-### Hi, Devs! Eu sou a Larissa! 👋
+### Hey, Devs! Eu sou a Larissa! 👋
 
 <h4>Contatos:</h4
   
