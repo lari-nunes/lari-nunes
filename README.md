@@ -19,5 +19,5 @@
 <br>
 </br>
 
-![lari-nunes GitHub stats](https://github-readme-stats.vercel.app/api?username=lari-nunes&show_icons=true&theme=radical)
+![lari-nunes GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
 
