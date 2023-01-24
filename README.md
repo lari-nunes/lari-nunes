@@ -40,10 +40,7 @@
             <img data-target="animated-image.replacedImage" alt="68747470733a2f2f7265616374696f6e676966732e6d652f77702d636f6e74656e742f75706c6f6164732f323031392f30352f546573746572732d56732d446576656c6f706572732e676966" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/2eba03d7f55593bc261a6876d60f0c6b27c7783e48012716dfaf900a005ce474/68747470733a2f2f7265616374696f6e676966732e6d652f77702d636f6e74656e742f75706c6f6164732f323031392f30352f546573746572732d56732d446576656c6f706572732e676966" height="170px" style="display: block; opacity: 1;">
           <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="300" height="170"></canvas></span></a>
         <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play 68747470733a2f2f7265616374696f6e676966732e6d652f77702d636f6e74656e742f75706c6f6164732f323031392f30352f546573746572732d56732d446576656c6f706572732e676966" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play 68747470733a2f2f7265616374696f6e676966732e6d652f77702d636f6e74656e742f75706c6f6164732f323031392f30352f546573746572732d56732d446576656c6f706572732e676966">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+        
             </path></svg>
             <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
               <rect x="4" y="2" width="3" height="12" rx="1"></rect>
