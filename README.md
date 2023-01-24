@@ -11,41 +11,4 @@
 
 ### <h2>Atuamente estudando essas tecnologias:</h2>
 
-<div dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img align="center" alt="html5" src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"><img align="center" alt="css" src="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
-  
-<br>
-</br>
-<div align="center" dir="auto">
-  <table>
-    <tbody><tr>
-      <td>
-        <b><g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji> Cientista da Computação</b>
-      </td>
-      <td>
-        <b><g-emoji class="g-emoji" alias="test_tube" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ea.png">🧪</g-emoji> Tester Pleno</b>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/793a3c97d028b3d54dd3dc63d9afa6ad1db4266bfe9674e027fc437fc0ae9dcb/68747470733a2f2f6170696c6772696d696e6e61726e69612e66696c65732e776f726470726573732e636f6d2f323031382f30392f6c6567616c6c792d626c6f6e64652d6c6170746f702d65313533363037383933313633352e6a7067"><img src="https://camo.githubusercontent.com/793a3c97d028b3d54dd3dc63d9afa6ad1db4266bfe9674e027fc437fc0ae9dcb/68747470733a2f2f6170696c6772696d696e6e61726e69612e66696c65732e776f726470726573732e636f6d2f323031382f30392f6c6567616c6c792d626c6f6e64652d6c6170746f702d65313533363037383933313633352e6a7067" width="300px" height="170px" data-canonical-src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" style="max-width: 100%;"></a>
-      </td>
-      
-        
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-         
-            </svg>
-          </a>
-        </span>
-      </span></animated-image>
-      </td>
-    </tr>
-  </tbody></table>
-</div>
 
