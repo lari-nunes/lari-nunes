@@ -33,7 +33,7 @@
   <b>"A tecnologia move o mundo" - Steve Jobs</b>
 </div><br>
 
-Sou graduanda do curso de Tecnologia em Análise e Desenvolvimento de Sistemas</b> pelo Centro Universitário Integrado (2022) e atualmente não estou no mercado de trabalho, mas sigo estudando e focando o máximo possível. Na área de programação meu foco está sendo como <b>Desenvolvedora Front-End</b> e no momento minhas habilidades estão sendo em HTML, CSS, JavaScript. 
+Sou graduanda do curso de <b>Tecnologia em Análise e Desenvolvimento de Sistemas</b> pelo Centro Universitário Integrado (2022) e atualmente não estou no mercado de trabalho, mas sigo estudando com muito foco para que isso seja realizado. Na área de programação meu foco está sendo como <b>Desenvolvedora Front-End</b> e no momento minhas habilidades estão sendo em <b>HTML, CSS, JavaScript.</b> 
 <br><br>
 
 <div align="center">
