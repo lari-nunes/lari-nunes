@@ -88,8 +88,6 @@ src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&lo
 
 <br>
   
-  <br></br>
-  
  ![lari-nunes GitHub stats](https://github-readme-stats.vercel.app/api?username=lari-nunes&show_icons=true&theme=transparent)
   
 </div>
