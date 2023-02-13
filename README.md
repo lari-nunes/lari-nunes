@@ -1,4 +1,3 @@
-<details open> <summary> 👈 <img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8-English%20Version-blue" /> </summary>
 <div align="center">
   
 <h1>Olá dev, me chamo Larissa Nunes! 💜</h1>
@@ -91,7 +90,7 @@ src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&lo
   
  ![lari-nunes GitHub stats](https://github-readme-stats.vercel.app/api?username=lari-nunes&show_icons=true&theme=transparent)
  
-![lari-nunes GitHub stats]("https://github-readme-stats.vercel.app/api/top-langs/?username=lari-nunes=compact&theme=monokai&hide_title=true" 
+"https://github-readme-stats.vercel.app/api/top-langs/?username=lari-nunes=compact&theme=monokai&hide_title=true" 
   
 </div>
 
