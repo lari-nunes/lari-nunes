@@ -33,7 +33,7 @@
   <b>"A tecnologia move o mundo" - Steve Jobs</b>
 </div><br>
 
-Sou graduanda do curso de <b>Tecnologia em Análise e Desenvolvimento de Sistemas</b> pelo Centro Universitário Integrado (2022). Na área de programação meu foco está sendo em <b>Desenvolvimento Front-End</b> e no momento minhas habilidades estão sendo <b>HTML, CSS, JavaScript, MySQL.</b> 
+Sou graduanda do curso de <b>Tecnologia em Análise e Desenvolvimento de Sistemas</b> pelo Centro Universitário Integrado (2022). Na área de programação meu foco é <b>Desenvolvimento Front-End</b> e no momento minhas habilidades estão sendo <b>HTML, CSS, JavaScript, MySQL.</b> 
 <br><br>
 
 <div align="center">
