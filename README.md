@@ -1,6 +1,6 @@
 <div align="center">
   
-<h1>Olá dev, me chamo Larissa Nunes! 💜</h1>
+<h1>Olá, me chamo Larissa Nunes! 💜</h1>
   
 </div>
     
