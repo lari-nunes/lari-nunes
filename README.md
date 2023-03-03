@@ -67,10 +67,6 @@ Sou graduanda do curso de <b>Tecnologia em Análise e Desenvolvimento de Sistema
 </div>
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lari-nunes&hide=TeX&layout=compact)
-
-
-
 <div align="center">
   
   ## ⭐️ Minhas Skills ⭐️
@@ -90,6 +86,8 @@ src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&lo
   
  ![lari-nunes GitHub stats](https://github-readme-stats.vercel.app/api?username=lari-nunes&show_icons=true&theme=transparent)
 
+  
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lari-nunes&hide=TeX&layout=compact)
   
 </div>
 
