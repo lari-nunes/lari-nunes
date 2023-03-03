@@ -56,12 +56,7 @@ Sou graduanda do curso de <b>Tecnologia em Análise e Desenvolvimento de Sistema
       <td>
         <img src="https://64.media.tumblr.com/tumblr_lyxj33CYzW1qigluvo4_250.gif">
       </td>
-      <td>
-          <img src="https://64.media.tumblr.com/tumblr_lyxj33CYzW1qigluvo5_250.gifv">
-      </td>
-       <td>
-          <img src="https://64.media.tumblr.com/tumblr_lyxj33CYzW1qigluvo6_250.gifv">
-      </td>
+      
     </tr>
   </table>
 </div>
