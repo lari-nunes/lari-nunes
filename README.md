@@ -1,10 +1,10 @@
-<h1> Hi! I'm Larissa! 💜 </h1>
+<h1> Hiii, I'm Larissa! ✨☕ </h1>
 
 
 - Cursando o 3º periodo de Tecnologia em Análise e Desenvolvimento de Sistemas, na faculdade Integrado.
 - Trabalho atualmente na empresa Cofama - https://www.cofama.com.br/
 - Na área de programação meu foco é <b>Desenvolvimento Front-End</b> e no momento minhas habilidades estão sendo <b>HTML, CSS, JavaScript.</b> 
-- Nas horas vagas gosto de jogar video game!
+- Apaioxonada por café e video game!
 
 <div> <h1> Me encontre em: </h1>
 <a href="https://www.linkedin.com/in/9larissanunes" target="_blank">
@@ -25,7 +25,21 @@
  
 <img align="center" alt="js" src="https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"> 
 
-<br>
+<br><br>
+  
+  <table>
+    <tr>
+      <td>
+        <b></b>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px">
+      </td>
+  </table>
+  
+  <br>
 
 <div>
 <h1> GitHub Stats :) </h1>
