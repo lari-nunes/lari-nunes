@@ -15,7 +15,7 @@
   
 </div>
 
-<div> <h1> Minhas skills: </h1>
+<div> <h1> Minhas Skills: </h1>
   
   <br>
   
