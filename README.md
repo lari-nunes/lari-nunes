@@ -28,25 +28,15 @@
 
 <br><br>
   
-  <table>
-    <tr>
-      <td>
-        <b></b>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px">
-      </td>
-  </table>
-  
+      
   <br>
 
 <div>
 <h1> GitHub Stats :) </h1>
 <img src="https://github-readme-stats.vercel.app/api?username=lari-nunes&show_icons=true&theme=radical">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lari-nunes&theme=radical">
+<img height="200em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lari-nunes&layout=compact&langs_count=7&theme=dracula"/>
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
