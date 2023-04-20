@@ -1,7 +1,7 @@
 <h1> Hiii, I'm Larissa! ✨☕ </h1>
 
 
-- Cursando o 3º periodo de Tecnologia em Análise e Desenvolvimento de Sistemas, na faculdade Integrado.
+- Cursando o 3º periodo de Análise e Desenvolvimento de Sistemas, na faculdade Integrado.
 - Trabalho atualmente na empresa Cofama - https://www.cofama.com.br
 - Na área de programação meu foco é <b>Desenvolvimento Front-End</b>, pois espero proporcionar uma experiência agradável para o usuário!!!
 - Não vive sem café e Spotify :)
