@@ -34,5 +34,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=lari-nunes&show_icons=true&theme=radical">
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  <img height="200em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lari-nunes&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
