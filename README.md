@@ -29,7 +29,7 @@
 <br>
 <br>
 
-<div>
+<div> <h2> GitHub Stats :) </h2>
 <img src="https://github-readme-stats.vercel.app/api?username=lari-nunes&show_icons=true&theme=radical">
 <img height="200em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lari-nunes&layout=compact&langs_count=7&theme=dracula"/>
 
