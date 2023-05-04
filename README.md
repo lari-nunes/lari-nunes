@@ -28,10 +28,9 @@
 <br>
 
 <h1> GitHub Stats :) </h1>
-<img src="https://github-readme-stats.vercel.app/api?username=lari-nunes&show_icons=true&theme=radical">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lari-nunes&theme=radical">
-
+<div align="center">
+<img  height="170em" src="https://github-readme-stats.vercel.app/api?username=larihnunes&show_icons=true&theme=radical"/>
+<img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larihnunes&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 
