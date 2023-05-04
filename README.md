@@ -28,8 +28,8 @@
 
 <h2> GitHub Stats :) </h2>
 <div align="center">
-<img  height="170em" src="https://github-readme-stats.vercel.app/api?username=mikasampaio&show_icons=true&theme=radical"/>
-<img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikasampaio&layout=compact&langs_count=16&theme=radical"/>
+<img  height="170em" src="https://github-readme-stats.vercel.app/api?username=lari-nunes&show_icons=true&theme=radical"/>
+<img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lari-nunes&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 
