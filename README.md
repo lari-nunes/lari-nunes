@@ -3,7 +3,7 @@
 
 - Cursando o 3º periodo de Análise e Desenvolvimento de Sistemas, na faculdade Integrado.
 - Trabalho atualmente na empresa Cofama - https://www.cofama.com.br
-- Na área de programação meu foco é <b>Desenvolvimento Front-End</b>, pois espero proporcionar uma experiência agradável para o usuário!!!
+- Desenvolvedora Front-End
 - Não vive sem café e Spotify :)
 
 <div> <h2> Me encontre em: </h2>
