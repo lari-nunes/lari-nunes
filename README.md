@@ -18,7 +18,7 @@
 
 <div> <h2> Minhas Skills: </h2>
   
-  [![My Skills](https://skillicons.dev/icons?i=javascript,php,css,html,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=javascript,php,css,html,mysql,git)](https://skillicons.dev)
 <br>
 
 <h2> GitHub Stats :) </h2>
