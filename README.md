@@ -31,6 +31,3 @@
 <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=lari-nunes&show_icons=true&theme=radical"/>
 <img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lari-nunes&layout=compact&langs_count=16&theme=radical"/>
 </div>
-
-
-![Snake animation](https://github.com/lari-nunes/lari-nunes/blob/output/github-contribution-grid-snake.svg)
