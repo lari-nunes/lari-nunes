@@ -27,7 +27,7 @@
 <br>
 <br>
 
-<h1> GitHub Stats :) </h1>
+<h2> GitHub Stats :) </h2>
 <div align="center">
 <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=larihnunes&show_icons=true&theme=radical"/>
 <img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larihnunes&layout=compact&langs_count=16&theme=radical"/>
