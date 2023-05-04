@@ -27,12 +27,12 @@
 <br>
 <br>
 
-<div> <h2> GitHub Stats :) </h2>
+<h1> GitHub Stats :) </h1>
+<img src="https://github-readme-stats.vercel.app/api?username=dihlopees&show_icons=true&theme=radical">
 
-  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=lari-nunes&show_icons=true&theme=radical"/>
-  <img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lari-nuneso&layout=compact&langs_count=16&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dihlopees&theme=radical">
 
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
+
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
