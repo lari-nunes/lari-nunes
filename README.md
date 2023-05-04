@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00A791&height=120&section=header"/>
 <h1> Hiii, I'm Larissa! ✨☕ </h1>
 
 
@@ -35,4 +36,6 @@ src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoCo
 <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=lari-nunes&show_icons=true&theme=radical"/>
 <img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lari-nunes&layout=compact&langs_count=16&theme=radical"/>
 </div>
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00A791&height=120&section=footer"/>
  
