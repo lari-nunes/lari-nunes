@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00A791&height=120&section=header"/>
-<h1> Hiii, I'm Larissa! ✨☕ </h1>
+<h1> Hiii, I'm Larissa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> ✨</h1>
 
 
 - Cursando o 3º periodo de Análise e Desenvolvimento de Sistemas, na faculdade Integrado.
