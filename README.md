@@ -3,7 +3,7 @@
 
 
 - Cursando o 3º periodo de Análise e Desenvolvimento de Sistemas, na faculdade Integrado.
-- Trabalho atualmente na empresa Cofama - https://www.cofama.com.br
+- Atualmente trabalhando na empresa Cofama - https://www.cofama.com.br
 - Desenvolvedora Front-End viciada em café e spotify :)
 
 <div> <h2> Me encontre em: </h2>
@@ -18,7 +18,7 @@
 
 <div> <h2> Minhas Skills: </h2>
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,mysql,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,php,mysql)](https://skillicons.dev)
 <br>
 
 <h2> GitHub Stats :) </h2>
