@@ -20,7 +20,7 @@
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,figma,mysql)](https://skillicons.dev)
 
-<h2> GitHub Stats :) </h2>
+<h2> GitHub Stats: </h2>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lari-nunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
