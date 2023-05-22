@@ -4,7 +4,7 @@
 
 - Cursando o 3º periodo de Análise e Desenvolvimento de Sistemas, na faculdade Integrado.
 - Atualmente trabalhando na empresa Cofama - https://www.cofama.com.br
-- Desenvolvedora Front-End viciada em café e spotify :)
+- Viciada em café e spotify :)
 
 <div> <h2> Me encontre em: </h2>
 <a href="https://www.linkedin.com/in/9larissanunes" target="_blank">
