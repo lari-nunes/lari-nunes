@@ -4,7 +4,7 @@
 
 - Cursando o 3º periodo de Análise e Desenvolvimento de Sistemas, na faculdade Integrado.
 - Atualmente trabalhando na empresa Cofama - https://www.cofama.com.br
-- Dev com foco em frontend e QA. 
+- Dev com foco em frontend e UX/UI Designer. 
 - Viciada em café e spotify :)
 
 <div> <h2> Me encontre em: </h2>
