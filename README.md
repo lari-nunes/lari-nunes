@@ -29,4 +29,7 @@
 </div>
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00A791&height=120&section=footer"/>
+  
+  
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lari-nunes.README)
  
