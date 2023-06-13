@@ -2,11 +2,11 @@
 <h1> Hii, I'm Larissa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"></h1>
 
 
-- Cursando o 3º periodo de Análise e Desenvolvimento de Sistemas, na faculdade Integrado.
-- Foco em Front-End e UX/UI Design
-- Não vive sem café e spotify :)
+- Attending the 3rd period of Analysis and Systems Development, at Faculdade Integrado.
+- Focus on Front-End and UX/UI Design
+- Can't live without coffee and spotify :)
 
-<div> <h2> Me encontre em: </h2>
+<div> <h2> Meet me at: </h2>
 <a href="https://www.linkedin.com/in/9larissanunes" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="mailto:larissnunes924@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -14,7 +14,7 @@
   
 </div>
 
-<div> <h2> Minhas habilidades: </h2>
+<div> <h2> My skills: </h2>
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,figma,mysql)](https://skillicons.dev)
 
