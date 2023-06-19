@@ -3,7 +3,7 @@
 
 
 - Attending the 3rd period of Analysis and Systems Development, at Faculdade Integrado.
-- Focus on Front-End and UX/UI Design
+- Web/front end development
 - Can't live without coffee and spotify :)
 
 <div> <h2> Meet me at: </h2>
