@@ -2,7 +2,7 @@
 <h1> Hii, I'm Larissa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"></h1>
 
 
-- Estudante de Análise e Desenvolvimento de Sistemas do 3º período.
+- Estudante de Análise e Desenvolvimento de Sistemas no 4º período.
 - Desenvolvedora Front-End.
 - Não vive sem café e spotify :)
 
