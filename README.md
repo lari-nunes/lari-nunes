@@ -2,11 +2,11 @@
 <h1> Hii, I'm Larissa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"></h1>
 
 
-- Attending the 3rd period of Analysis and Systems Development, at Faculdade Integrado.
-- Web/front end development
-- Can't live without coffee and spotify :)
+- Estudante de Análise e Desenvolvimento de Sistemas do 3º período.
+- Desenvolvedora Front-End.
+- Não vive sem café e spotify :)
 
-<div> <h2> Meet me at: </h2>
+<div> <h2> Me encontre em: </h2>
 <a href="https://www.linkedin.com/in/9larissanunes" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="mailto:larissnunes924@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
