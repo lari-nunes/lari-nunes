@@ -3,8 +3,7 @@
 
 
 - Estudante de Análise e Desenvolvimento de Sistemas no 4º período.
-- Desenvolvedora Front-End.
-- Não vive sem café e spotify :)
+- Desenvolvedora web.
 
 <div> <h2> Me encontre em: </h2>
 <a href="https://www.linkedin.com/in/9larissanunes" target="_blank">
