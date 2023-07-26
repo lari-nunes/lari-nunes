@@ -2,8 +2,9 @@
 <h1> Hii, I'm Larissa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"></h1>
 
 
-- Estudante de Análise e Desenvolvimento de Sistemas no 4º período.
-- Desenvolvedora web.
+ - Estudante de Análise e Desenvolvimento de Sistemas no 4º período.
+ - Desenvolvedora web.
+ - Não vivo sem café!
 
 <div> <h2> Me encontre em: </h2>
 <a href="https://www.linkedin.com/in/9larissanunes" target="_blank">
