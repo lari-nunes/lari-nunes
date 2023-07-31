@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B327A1&height=120&section=header"/>
 <h1> Hii, I'm Larissa!👋</h1>
 
-<h3>Sobre mim</h3>
+<h3>👩🏽‍💻Sobre mim</h3>
 
  - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º período).
  - 👩‍💻 Focada em desenvolvimento front-end, mas também estou me aprofundando em Java com Spring Boot.
@@ -9,7 +9,7 @@
  - ☕ Amante de café - uma xícara de café sempre me inspira a codar!
  
 
-<div> <h2> Me encontre em: </h2>
+<div> <h2>📱 Me encontre em: </h2>
  <a href="https://portifolioln.vercel.app" target="_blank"><img src="https://i.imgur.com/MymA43I.png"></a>
  <a href="https://www.linkedin.com/in/9larissanunes" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -17,11 +17,11 @@
  <a href="https://discord.com/channels/1091333854461165578/1091333855136468994" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
 </div>
 
-<div> <h2> My skills: </h2>
+<div> <h2> ✨My skills: </h2>
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,mui,git,figma,mysql)](https://skillicons.dev)
 
-<h2> GitHub Stats: </h2>
+<h2>⏳ GitHub Stats: </h2>
 
 <div align="center">
   
