@@ -1,17 +1,20 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B327A1&height=120&section=header"/>
-<h1> Hii, I'm Larissa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"></h1>
+<h1> Hii, I'm Larissa!👋</h1>
 
+<h3>Sobre mim</h3>
 
- - Estudante de Análise e Desenvolvimento de Sistemas no 4º período.
- - Desenvolvedora web.
- - Não vivo sem café!
+ - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º período).
+ - 👩‍💻 Focada em desenvolvimento front-end, mas também estou me aprofundando em Java com Spring Boot.
+ - 🐾 Apaixonada por animais.
+ - ☕ Amante de café - uma xícara de café sempre me inspira a codar!
+ 
 
 <div> <h2> Me encontre em: </h2>
-<a href="https://www.linkedin.com/in/9larissanunes" target="_blank">
+ <a href="https://portifolioln.vercel.app" target="_blank"><img src="https://i.imgur.com/MymA43I.png"></a>
+ <a href="https://www.linkedin.com/in/9larissanunes" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="mailto:larissnunes924@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-   <a href="https://discord.com/channels/1091333854461165578/1091333855136468994" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  
+ <a href="mailto:larissnunes924@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="https://discord.com/channels/1091333854461165578/1091333855136468994" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
 </div>
 
 <div> <h2> My skills: </h2>
