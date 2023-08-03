@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B327A1&height=120&section=header"/>
 <h1> Hii, I'm Larissa!👋</h1>
 
-<h3>👩🏽‍💻Sobre mim: </h3>
+<h3>👩🏽‍💻 Sobre mim: </h3>
 
  - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º período).
  - 👩‍💻 Sou desenvolvedora front-end, mas também tenho me aprofundado em Java e Spring Boot.
