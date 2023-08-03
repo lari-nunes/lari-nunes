@@ -1,10 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B327A1&height=120&section=header"/>
 <h1> Hii, I'm Larissa!👋</h1>
 
-<h3>👩🏽‍💻Sobre mim</h3>
+<h3>👩🏽‍💻Sobre mim: </h3>
 
  - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º período).
- - 👩‍💻 Focada em desenvolvimento front-end, mas também estou me aprofundando em Java com Spring Boot.
+ - 👩‍💻 Sou desenvolvedora front-end, mas também tenho me aprofundado em Java e Spring Boot.
+ - 💻 Sou apaixonada por tecnologia e em busca constante por conhecimento!
  - 🐾 Apaixonada por animais.
  - ☕ Amante de café - uma xícara de café sempre me inspira a codar!
  
