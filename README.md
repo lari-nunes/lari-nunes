@@ -6,7 +6,6 @@
  - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º período).
  - 👩‍💻 Sou desenvolvedora front-end, mas também tenho me aprofundado em Java e Spring Boot.
  - 💻 Sou apaixonada por tecnologia e em busca constante por conhecimento!
- - 🐾 Apaixonada por animais.
  - ☕ Amante de café - uma xícara de café sempre me inspira a codar!
  
 
