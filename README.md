@@ -30,6 +30,6 @@
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B327A1&height=120&section=footer"/>
   
-  
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lari-nunes.README)
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lari-nunes.README)  
+
  
