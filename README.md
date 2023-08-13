@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B327A1&height=120&section=header"/>
-<h1> Hii, I'm Larissa!👋</h1>
+<h1> Olá! Eu sou a Larissa!👋</h1>
 
 <h3>👩🏽‍💻 Sobre mim: </h3>
 
