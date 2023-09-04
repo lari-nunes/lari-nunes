@@ -4,7 +4,7 @@
 <h3>👩🏽‍💻 Sobre mim: </h3>
 
  - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º período).
- - 👩‍💻 Sou desenvolvedora front-end, mas também tenho me aprofundado em Java e Spring Boot.
+ - 👩‍💻 Atualmente estou estudando Java e Spring Boot.
  - 💻 Sou apaixonada por tecnologia e em busca constante por conhecimento!
  - ☕ Amante de café - uma xícara de café sempre me inspira a codar!
  
