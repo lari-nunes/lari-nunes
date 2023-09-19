@@ -4,9 +4,9 @@
 <h3>👩🏽‍💻 Sobre mim: </h3>
 
  - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º período).
- - 👩‍💻 Atualmente estou estudando Java e Spring Boot.
+ - 👩‍💻 Atualmente estudando Java e Spring Boot.
  - 💻 Sou apaixonada por tecnologia e em busca constante por conhecimento!
- - ☕ Amante de café - uma xícara de café sempre me inspira a codar!
+ - 😄 Por aqui tenho meus projetos da minha graduação em Análise e Desenvolvimento de Sistemas, onde a linguagem de programação JavaScript é bastante utilizada, e também, alguns projetos pessoais que desenvolvo para aprendizado da linguagem JavaScript e Java.
  
 
 <div> <h2>📱 Me encontre em: </h2>
@@ -17,7 +17,7 @@
 
 <div> <h2> ✨My skills: </h2>
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,java,git,figma,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,java,git,mysql)](https://skillicons.dev)
 
 <h2>⏳ GitHub Stats: </h2>
 
