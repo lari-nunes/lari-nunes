@@ -3,10 +3,11 @@
 
 <h3>👩🏽‍💻 Sobre mim: </h3>
 
- - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º período).
+ - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
  - 👩‍💻 Atualmente estudando Java e Spring Boot.
  - 💻 Sou apaixonada por tecnologia e em busca constante por conhecimento!
- - 😄 Por aqui tenho meus projetos da minha graduação em Análise e Desenvolvimento de Sistemas, onde a linguagem de programação JavaScript é bastante utilizada, e também, alguns projetos pessoais que desenvolvo para aprendizado da linguagem JavaScript e Java.
+ - 😄 Por aqui tenho meus projetos da minha graduação, onde a linguagem de programação JavaScript é bastante utilizada, e também, alguns projetos pessoais que desenvolvo para aprendizado e estudos em Java.
+ - 🎮 Gosto de jogar, mas isso não significa que eu seja boa :)
  
 
 <div> <h2>📱 Me encontre em: </h2>
@@ -29,6 +30,6 @@
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B327A1&height=120&section=footer"/>
   
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lari-nunes.README)  
+  ![impostores](https://visitor-badge.laobi.icu/badge?page_id=lari-nunes.README)  
 
  
