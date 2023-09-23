@@ -1,11 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B327A1&height=120&section=header"/>
 <h1> Olá! Eu sou a Larissa!👋</h1>
 
-<h3>👩🏽‍💻 Sobre mim: </h3>
+<h2>👩🏽‍💻 Sobre mim: </h2>
 
  - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
  - 👩‍💻 Atualmente estudando Java e Spring Boot.
- - 💻 Sou apaixonada por tecnologia e em busca constante por conhecimento!
  - 😄 Por aqui tenho meus projetos da minha graduação, onde a linguagem de programação JavaScript é bastante utilizada, e também, alguns projetos pessoais que desenvolvo para aprendizado e estudos em Java.
  - 🎮 Gosto de jogar, mas isso não significa que eu seja boa :)
  
