@@ -4,7 +4,7 @@
 <h2>👩🏽‍💻 Sobre mim: </h2>
 
  - Estudante de Análise e Desenvolvimento de Sistemas.
- - Atualmente estudando Java e Spring Boot.
+ - Atualmente estudando: [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql)](https://skillicons.dev)
  - Por aqui tenho meus projetos da minha graduação, onde a linguagem de programação JavaScript é bastante utilizada, e também, alguns projetos pessoais que desenvolvo para aprendizado e estudos em Java.
  - Gosto de jogar, mas isso não significa que eu seja boa :)
 
@@ -15,7 +15,7 @@
 
 <div> <h2> ✨Skills: </h2>
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,java,git,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,git,mysql)](https://skillicons.dev)
 
 <h2>⏳ GitHub Stats: </h2>
 
