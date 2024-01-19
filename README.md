@@ -5,8 +5,7 @@
 
  - Estudante de Análise e Desenvolvimento de Sistemas.
  - Atualmente estudando Java e Spring Boot.
- - Por aqui tenho meus projetos da minha graduação, onde a linguagem de programação JavaScript é bastante utilizada, e também, alguns projetos pessoais que desenvolvo para aprendizado e estudos em Java.
- - Gosto de jogar, mas isso não significa que eu seja boa :)
+ - Por aqui tenho meus projetos da minha graduação, onde a linguagem de programação JavaScript é bastante utilizada, e também, alguns projetos pessoais que desenvolvo para aprendizado e estudos em Java e Spring Boot.
 
 <div> <h2>📱 Me encontre em: </h2>
 
